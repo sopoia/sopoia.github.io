@@ -2,6 +2,7 @@
 # Sophia Avila's Portfolio
 
 I am a computer engineering major at CSUF and I plan on graduating in 2028.
+
 https://github.com/sopoia
 
 ## Favorite CPSC 120L Labs
